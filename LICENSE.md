@@ -34,7 +34,7 @@ Tài liệu được cung cấp "nguyên trạng" (AS-IS). Người duy trì rep
 ## Ghi công
 
 Khi sử dụng tài liệu từ repository này, vui lòng:
-- Ghi rõ nguồn: KHTN-THCS (github.com/thaydang/KHTN-)
+- Ghi rõ nguồn: KHTN-THCS (github.com/thaydang/KHTN-THCS)
 - Giữ nguyên thông tin tác giả (nếu có)
 - Tôn trọng công sức của người đóng góp
 
