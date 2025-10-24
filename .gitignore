@@ -1,0 +1,64 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.~lock.*
+
+# Microsoft Office temporary files
+~$*
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archive files (large files should be linked, not stored)
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Log files
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# Build directories
+build/
+dist/
+out/
+
+# Node modules (if any web tools are used)
+node_modules/
+npm-debug.log*
+
+# Python (if any scripts are used)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Videos larger than 50MB should be linked, not stored
+# (This is a reminder, not a gitignore pattern)
