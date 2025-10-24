@@ -33,8 +33,8 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho kho tài liệu KHT
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/KHTN-.git
-cd KHTN-
+git clone https://github.com/YOUR-USERNAME/KHTN-THCS.git
+cd KHTN-THCS
 
 # Tạo branch mới
 git checkout -b feature/them-tai-lieu-[mo-ta-ngan]
